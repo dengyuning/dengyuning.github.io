@@ -1,12 +1,12 @@
-Attention-over-Attention Neural Networks for Reading Comprehension
-作者 哈工大，科大讯飞
-ACL 2017
-参考资料链接
+# Attention-over-Attention Neural Networks for Reading Comprehension#
+## 作者 哈工大，科大讯飞
+### ACL 2017
+### 参考资料链接
 
-模型结构
-
-数据集
-
+#### 模型结构
+1. embedding: 问句和篇章共享词向量
+2. encoder: 用两个不同的双向RNN得到问句和篇章的表示，每个词由前向RNN的hidden states串接上后向RNN的hidden states 表示。
+3. 
 性能
 
 创新点
