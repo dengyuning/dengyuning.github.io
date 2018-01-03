@@ -16,7 +16,7 @@ contextual representation:
 * LM-augmented token re-embedding (TR + LM)
     原始token的词向量过RNN之后的hidden states串接上语言模型的embedding作为token的embedding 
    * TR + LM (L1)
-   * TR + LM (L2)
+   * TR + LM (L2)  
 contextual representation 和 non-contextual representation 一起过一个highway network 作为这一层的输出。
 
 ### 模型架构
@@ -26,8 +26,8 @@ contextual representation 和 non-contextual representation 一起过一个highw
     
 * encoder
     双向LSTM
-* answer layer
-    span a = (l,r)   
+* answer layer    
+    span a = (l,r)   
     全连接层预测答案得分  
     损失函数：最大似然概率
 
