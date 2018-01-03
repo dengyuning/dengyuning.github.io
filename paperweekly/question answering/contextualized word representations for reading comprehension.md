@@ -27,9 +27,9 @@ contextual representation 和 non-contextual representation 一起过一个highw
 * encoder
     双向LSTM
 * answer layer
-    span a = (l,r)
-    全连接层预测答案得分
-    损失函数：最大似然概率
+    span a = (l,r)   
+    全连接层预测答案得分  
+    损失函数：最大似然概率
 
 ### 模型性能
 
