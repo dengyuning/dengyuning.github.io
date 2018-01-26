@@ -7,3 +7,4 @@ description: "个人技术笔记"              #网站介绍
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" #关键词
 url: "https://dengyuning.github.io"          # 这个就是填写你的博客地址
 author: dyn
+root: / #根目录
