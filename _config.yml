@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 # Site settings
-title: My Blog                     #你博客的标题
+title: =0                     #你博客的标题
 SEOTitle: =0的博客        #显示在浏览器上搜索的时候显示的标题
 email: You@gmail.com    
 description: "个人技术笔记"              #网站介绍
