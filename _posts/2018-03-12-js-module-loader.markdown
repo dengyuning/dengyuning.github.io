@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "2月6号前的学习计划"
+title:      "3月12-3月18的学习计划"
 subtitle:   ""
-date:       2018-01-26
+date:       2018-03-12
 author:     "Dyn"
 header-img: "img/post-bg-js-module.jpg"
 catalog: true
