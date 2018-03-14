@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "有用的资源"
+title:      "contextualized word representations for reading comprehension"
 subtitle:   ""
 date:       2018-02-11
 author:     "Dyn"
