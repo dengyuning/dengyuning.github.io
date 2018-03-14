@@ -8,10 +8,8 @@ header-img: "img/post-bg-js-module.jpg"
 catalog: true
 ---
 1. focal loss : Nan  
-> [不过需要注意的是，在TensorFlow中，tf.nn.sigmoid函数，在输出的参数非常大，或者非常小的情况下，会给出边界值1或者0的输出](http://blog.sina.com.cn/s/blog_6ca0f5eb0102wr4j.html) 
-
+> [不过需要注意的是，在TensorFlow中，tf.nn.sigmoid函数，在输出的参数非常大，或者非常小的情况下，会给出边界值1或者0的输出](http://blog.sina.com.cn/s/blog_6ca0f5eb0102wr4j.html)
 > [学习率过大](https://www.zhihu.com/question/62441748)
-
 > [github 何凯明 版 focal loss](https://github.com/ailias/Focal-Loss-implement-on-Tensorflow/blob/master/focal_loss.py)
 2. [更新Tensor某一维度的值](https://www.google.com.hk/search?safe=strict&q=tensorflow+change+tensor+value&sa=X&ved=0ahUKEwiku6nl3cnYAhWBi5QKHZ7_BQkQ1QIIbigB&biw=1170&bih=803)  
 **无法解决**
@@ -24,10 +22,6 @@ catalog: true
 5. loss = 0 
 > **解决方案**:
 > 1. https://stackoverflow.com/questions/43776661/tensorflow-model-gets-loss-0
-6. [Python]json 错误xx is not JSON serializable  
-**以下这两个函数有差别**
-> json.dump(e.id2answer_dict, fh)  
-> fh.write(json.dumps(e.id2answer_dict,ensure_ascii=False)) 要求字典的键值是个字符串
 7. ssh 协议登录不上，能ping通  
 用户名写错，ip写错  
 8. [Ubuntu新建用户并给其管理员权限](http://www.linuxidc.com/Linux/2016-06/132218.htm)
