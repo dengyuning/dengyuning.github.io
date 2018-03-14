@@ -22,10 +22,10 @@ catalog: true
 5. loss = 0 
 > **解决方案**:
 > 1. https://stackoverflow.com/questions/43776661/tensorflow-model-gets-loss-0
-7. ssh 协议登录不上，能ping通  
+6. ssh 协议登录不上，能ping通  
 用户名写错，ip写错  
-8. [Ubuntu新建用户并给其管理员权限](http://www.linuxidc.com/Linux/2016-06/132218.htm)
-9. 训练语言模型时遇到NAN的问题
+7. [Ubuntu新建用户并给其管理员权限](http://www.linuxidc.com/Linux/2016-06/132218.htm)
+8. 训练语言模型时遇到NAN的问题
 >   调小learning rate
 10. 把gensim训练的词向量文件转成word2vec.txt格式
 > w2v.wv.save_word2vec_format('wv2.txt',binary=False)
