@@ -15,5 +15,5 @@ catalog: true
 6. [stackoverflow上关于tensorflow的问题集合](https://stackoverflow.com/questions/tagged/Tensorflow)
 7. [PyPI - the Python Package Index](https://pypi.python.org/pypi)
 8. [PyTorch 参考文档](http://pytorch.org/tutorials/)
-9. [Google推出的机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
+9. [Google推出的机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)  
    [B站资源: Google推出的机器学习速成课程](https://www.bilibili.com/video/av20453567/)
