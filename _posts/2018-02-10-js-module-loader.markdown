@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "contextualized word representations for reading comprehension"
+title:      "Attention-over-Attention Neural Networks for Reading Comprehension"
 subtitle:   ""
 date:       2018-02-10
 author:     "Dyn"
