@@ -21,7 +21,7 @@ catalog: true
 #### 模型架构
 
 #### 模型性能
-![image](https://github.com/dengyuning/dengyuning.github.io/blob/master/img/BiDAF.jpeg)
+![image](https://note.youdao.com/yws/public/resource/c941817d01a5a905cf4e7ece6b7ecebb/xmlnote/WEBRESOURCE494bdc8636bb491d81fb1091a1ebb3d5/2546)
 
 #### trick
 
