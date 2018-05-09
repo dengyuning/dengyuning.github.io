@@ -47,4 +47,6 @@ reader: 一般的抽取式的阅读理解模型
 > We use the 2016-12-21 dump of En- glish Wikipedia as our sole knowledge source, and build an inverted index with Lucene8. We then take each input ques- tion as a query to search for top-200 articles, rank them with BM25, and split them into sentences. The sentences are then ranked by TF-IDF and the top-200 sentences for each ques- tion retained.
 
 #### 参考资料
+[2017b] Wang, S., and Jiang, J. 2017b. Machine compre- hension using match-LSTM and answer pointer. In Proc. of ICLR.    
+[github代码](https://github.com/shuohangwang/mprc)    
 强化学习还要了解更多
